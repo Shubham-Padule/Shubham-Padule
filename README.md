@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Shubham-Padule
 - 👀 I’m interested in Programming 
-- 🌱 I’m currently learning Full stack java Course
+- 🌱 I’m currently learning Full stack web devloper
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me By mail:- shubhampadule22@gmail.com
 
