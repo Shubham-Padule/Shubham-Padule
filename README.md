@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/@paduleshubham22" target="blank"><img src="https://img.shields.io/twitter/follow/@paduleshubham22?logo=twitter&style=for-the-badge" alt="@paduleshubham22" /></a> </p>
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **React,nodejs,expressjs,mongodb**
 
 - 👨‍💻 All of my projects are available at [shubhamporfolio.netlify.app/](shubhamporfolio.netlify.app/)
 
